@@ -60,7 +60,7 @@ npm install (caso necessário)
    ```
 2. Navegue até o diretório do backend:
    ```bash
-   cd transportadora
+   cd backend
    ```
 3. Execute o projeto:
    ```bash
